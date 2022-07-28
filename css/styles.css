@@ -1,0 +1,13 @@
+.custom-nv{
+    padding-left: 4rem !important;
+}
+.custom-nv li a{
+    margin-right: 2rem;
+}
+.bg-imges {
+ filter: brightness(50%);
+}
+.font{
+    color: white;
+    font-size: 4.5rem;
+}
