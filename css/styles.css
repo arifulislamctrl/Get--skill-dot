@@ -1,13 +1,22 @@
-.custom-nv{
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.custom-nv {
     padding-left: 4rem !important;
 }
-.custom-nv li a{
+
+.custom-nv li a {
     margin-right: 2rem;
 }
-.bg-imges {
- filter: brightness(50%);
-}
-.font{
-    color: white;
+.font {
     font-size: 4.5rem;
+    color: white !important;
 }
+.bg-imges {
+    filter: brightness(55%);
+}
+.height-img img {
+    height: 100vh !important;
+}
+/* carosal end  */
